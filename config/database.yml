@@ -1,0 +1,3 @@
+adapter: postgresql
+encoding: unicode
+database: shop
